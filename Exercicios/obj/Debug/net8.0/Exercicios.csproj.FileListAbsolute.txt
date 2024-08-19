@@ -1,0 +1,4 @@
+C:\Users\Matheus\source\repos\ScreenSound03-projeto-inicial (3)\ScreenSound03-projeto-inicial\Exercicios\obj\Debug\net8.0\Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\source\repos\ScreenSound03-projeto-inicial (3)\ScreenSound03-projeto-inicial\Exercicios\obj\Debug\net8.0\Exercicios.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\ScreenSound03-projeto-inicial (3)\ScreenSound03-projeto-inicial\Exercicios\obj\Debug\net8.0\Exercicios.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\ScreenSound03-projeto-inicial (3)\ScreenSound03-projeto-inicial\Exercicios\obj\Debug\net8.0\Exercicios.csproj.CoreCompileInputs.cache
